@@ -7,7 +7,7 @@
     'author': 'YPerezM',
     'depends': ['website'],
     'data': [
-        'views/templates.xml',
+        'views/templates.xml','views/pages.xml','views/layout.xml',
     ],
     'images': [
         'static/description/cover.png',
