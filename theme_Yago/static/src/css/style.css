@@ -1,10 +1,16 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 06-mar-2016, 20:47:18
-    Author     : yago
-*/
+.services {
+    background: #EAEAEA;
+    padding: 1em;
+    margin: 2em 0 3em;
 
+}
+.services li {
+    display: block;
+    position: relative;
+    background-color: #16a085;
+    color: #FFF;
+    padding: 2em;
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
