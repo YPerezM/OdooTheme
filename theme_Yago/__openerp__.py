@@ -7,7 +7,7 @@
     'author': 'Yago Perez Martinez',
     'depends': ['website'],
     'data': [
-        'views/templates.xml','views/layout.xml',
+        'views/templates.xml','views/layout.xml','views/pages.xml',
     ],
     'images': [
         'static/description/icon.png',
