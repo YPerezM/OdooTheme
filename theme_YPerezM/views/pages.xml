@@ -25,8 +25,11 @@
             <t t-call="website.layout">
                 <div id="wrap2">
                     <div class="container2">
+                        <h1>Mis Vacaciones</h1>
+                        <ul class="vacaciones">
                         <img alt="vacaciones" class="img-square" src="/theme_YPerezM/static/src/img/vacaciones.jpg"/>
                        Esto es una prueba de texto de las vacaciones
+                        </ul>
                     </div>
                     
                     
@@ -43,7 +46,7 @@
             <field name="sequence" type="int">99</field>
         </record>
         
-        <record id="services_page_link2" model="website.menu">
+        <record id="vacaciones_page_link" model="website.menu">
             <field name="name">Vacaciones</field>
             <field name="url">/page/vacaciones</field>
             <field name="parent_id" ref="website.main_menu" />
