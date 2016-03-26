@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "openacademy",
+    'name': "ModuloTutoOdoo",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        Modulo siguiendo el tutorial oficial de Odoo
     """,
 
-    'author': "My Company",
+    'author': "YPerezM",
     'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
